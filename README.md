@@ -1,3 +1,7 @@
+本文使用websocket请求数据,使用tradingView做出图片
+其中App.js为配置文件
+	charting_library为插件文件
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
